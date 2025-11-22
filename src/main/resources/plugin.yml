@@ -1,0 +1,13 @@
+name: TradeLimit
+main: com.illtamer.mc.plugin.limit.trade.TradeLimit
+version: 1.0
+folia-supported: true
+
+author: IllTamer
+
+softdepend: []
+
+commands:
+  TradeLimit:
+    aliases:
+      - tLimit
